@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ahmed</groupId>
-	<artifactId>Spring-Security</artifactId>
+	<artifactId>BookNetWorkingApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MailVerFunctionality</name>
 	<description>Demo project for Spring Boot</description>
